@@ -2,6 +2,7 @@ Overview
 ==========================
 Created a Random Password Generator program which generates a password mix of upper and lowercase letters, as well as numbers and symbols strong enough to provide great security.
 
+![passwordgenerator](https://user-images.githubusercontent.com/80060515/131913260-6f1b3913-bd2b-400a-8f04-85a0c5c2010c.jpg)
 
 Learned:
 ==========================
@@ -23,4 +24,4 @@ Modules Used:
 Random module is used to perform the random generations. We are making use of random.sample module here. If you will observe in the output all characters will be unique. `random.sample()` never repeats characters. If you don’t want to repeat characters or digits in the random string, then use `random.sample()` but it is less secure because it will reduce the probability of combinations because we are not allowing repetitive letters and digits.
 
 ### String Module:
-The string module contains a number of useful constants, classes and a number of functions to process the standard python string.   
+The string module contains a number of useful constants, classes and a number of functions to process the standard python string.
