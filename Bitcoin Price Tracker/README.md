@@ -3,6 +3,8 @@ Overview
 Built chrome extension which is based on web technologies that tracks live Bitcoin prices.
 It uses HTML, CSS, and JavaScript.
 
+![bitcoin price tracker](https://user-images.githubusercontent.com/80060515/132025826-95343284-3def-4fe2-89f0-0c0ce71f3687.jpg)
+
 Pre-requisites:
 ==========================
 ```
@@ -30,4 +32,3 @@ Learned:
 -How to use JavaScript to fetch the real-time Bitcoin prices &
 then to show it on the browser screen instead of showing Loading... all the time.
 ```
-![price trackers](https://user-images.githubusercontent.com/80060515/131907474-164ac730-4df2-45de-8f32-3c41eb838690.jpg)
