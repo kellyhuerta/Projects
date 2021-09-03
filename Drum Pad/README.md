@@ -2,7 +2,7 @@
 
 Created a drum pad that plays actual sounds. Learned about different types of events, functions, styling, and more with JavaScript, HTML, and CSS.
 
-![Drum Pad](https://user-images.githubusercontent.com/80060515/132022113-8011052b-92c2-473b-b782-845a81ff6bbc.png)
+![Drum Pad](https://user-images.githubusercontent.com/80060515/132026290-b64e1620-2449-4eea-88c6-7dc0cb9e7b05.png)
 
 
 ## Pre-requisites
