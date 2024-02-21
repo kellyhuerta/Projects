@@ -1,4 +1,4 @@
-# Currently working on this project!
+# Currently working on this project
 
 I will upload files as soon as I am done.
 
