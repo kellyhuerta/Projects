@@ -1,2 +1,2 @@
 # Projects
-This repository contains all the code I use in my projects.
+This repository contains all the project that are on my website
